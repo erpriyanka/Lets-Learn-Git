@@ -4,6 +4,8 @@ public class Diff(){
         int a = 10;
         int b = 16;
 
+        system.out.print("the output" + b/a);
+
         
     }
 }
